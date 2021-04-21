@@ -1,0 +1,20 @@
+{
+  "name": "adventofcode.js",
+  "description": "",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": ">=15.x"
+  },
+  "scripts": {
+    "new": "node index.js init",
+    "test": "node index.js test",
+    "go": "node index.js run"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^14.14.40"
+  }
+}
